@@ -1,6 +1,6 @@
 <div align="center">
 
-![میکی تانل](banner.png)
+![میکی تانل](file_00000000e85c81f4ba6b1e449b7e04c6.png)
 
 # میکی تانل · Miki Tunnel
 
